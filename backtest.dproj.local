@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\portfoy_takibi.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\baslangic.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\portfoy_takibi.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\backtest_.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\backtest_.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\acilis.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.056,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\portfoy.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\backtest.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\baslangic.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\ugdul\OneDrive\Masaüstü\Projects\baslangic.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.056,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\portfoy.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\sifre.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\sifre.dfm=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\acilis.pas=C:\Users\ugdul\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\ugdul\OneDrive\Masaüstü\Projects\sifre.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
